@@ -11,6 +11,10 @@
 /build
 
 # debug
+
+# documentation
+integracao-frontend.md
+backend/readme.md
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -18,8 +22,7 @@ yarn-error.log*
 
 # env files
 .env*
-INTEGRACAO-FRONTEND
-backend/README
+
 
 # vercel
 .vercel
