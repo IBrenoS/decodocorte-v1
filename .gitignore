@@ -18,6 +18,8 @@ yarn-error.log*
 
 # env files
 .env*
+INTEGRACAO-FRONTEND.md
+backend/README.md
 
 # vercel
 .vercel
