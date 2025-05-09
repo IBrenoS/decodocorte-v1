@@ -13,8 +13,9 @@
 # debug
 
 # documentation
-integracao-frontend.md
-backend/readme.md
+INTEGRACAO-FRONTEND.md
+README.md
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
